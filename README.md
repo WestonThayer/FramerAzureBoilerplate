@@ -1,6 +1,6 @@
 # Framer Azure Boilerplate
 
-Boilerplate files for hosting FramerJs prototypes in Azure Websites (or any IIS server). Mostly copied from [Fernando Correia](https://github.com/fernandoacorreia)'s [StaticAuthSample](https://github.com/fernandoacorreia/StaticAuthSample).
+Boilerplate files for hosting FramerJs prototypes in Azure Websites (or any IIS server). Mostly copied from [Fernando Correia](https://github.com/fernandoacorreia)'s [StaticAuthSample](https://github.com/fernandoacorreia/StaticAuthSample), with the addition of allowing the `.coffee` MIME type (thanks for that tip [Edge Pereira](http://www.superedge.net/2014/10/host-json-file-on-azure-website.html?m=1)).
 
 ## Usage
 
