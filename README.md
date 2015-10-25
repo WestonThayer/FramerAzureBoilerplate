@@ -9,6 +9,8 @@ Boilerplate files for hosting FramerJs prototypes in Azure Websites (or any IIS 
 3. Copy `Web.config`, `Login.aspx`, and the `PrivatePrototype/` folder over to your Azure Website. [WebMatrix](http://www.microsoft.com/web/webmatrix/) makes this easy
 4. Visit `http://YOUR_SITE.azurewebsites.net/PrivatePrototype/` and enter `Alice` as the user and `secret` as the password to log in
 
+![Logging in](http://westonthayer.com/blog/_site/public/assets/2015-10-23-hosting-framer-on-azure/login.png)
+
 ## Tweaks
 
 ### Change the `PrivatePrototype/` URL
